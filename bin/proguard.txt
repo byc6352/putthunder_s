@@ -1,0 +1,20 @@
+# view AndroidManifest.xml #generated:29
+-keep class accessibility.QiangHongBaoService { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class activity.SplashActivity { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:145
+# view res/layout/activity_main.xml #generated:412
+-keep class com.example.h3.FlowRadioGroup { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.example.h3.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:43
+# view AndroidManifest.xml #generated:57
+-keep class download.DownloadService { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class util.CrashApplication { <init>(...); }
+
